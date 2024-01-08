@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Color scheme
+https://colors.muz.li/palette/072448/54d2d2/ffcb00/f8aa4b/ff6150
+
 ## Getting Started
 
 First, run the development server:
